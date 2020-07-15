@@ -5,3 +5,31 @@
   font-size: 2rem;
 }
 */
+
+.search-area {
+  padding-top: 50px;
+}
+
+.no-right-padding {
+  padding-right: 0 !important;
+}
+
+.no-left-padding {
+  padding-left: 0 !important;
+}
+
+.no-right-radius {
+  border-radius: 5px 0px 0px 5px !important;
+}
+
+.no-left-radius {
+  border-radius: 0px 5px 5px 0px !important;
+}
+
+.bottom-button-padding {
+  padding-bottom: 7px !important
+}
+
+.results-block {
+  display: inline-block;
+}
